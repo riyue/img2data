@@ -1,0 +1,20 @@
+{
+  "name": "node-zuoye-cli-test",
+  "version": "0.0.1",
+  "description": "convert images to data URIs",
+  "keywords": [
+  ],
+  "bin": {
+    "img2data": "img2data.js"
+  },
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "commander": "^2.6.0"
+  },
+  "author": "shengyonggen",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riyue/img2data.git"
+  }
+}
